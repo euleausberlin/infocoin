@@ -1,4 +1,4 @@
-##DO NOT MINE THIS YET
+## DO NOT MINE THIS YET
 https://bitcointalk.org/index.php?topic=1835332.0
 
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
